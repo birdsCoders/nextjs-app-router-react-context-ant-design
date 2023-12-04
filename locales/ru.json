@@ -1,0 +1,22 @@
+{
+  "TITLE": "Добро пожаловать!",
+  "TITLE_ABOUT": "О нас",
+  "NOT_FOUND": "Страница не найдена",
+
+  "METADATA": {
+    "TITLE": "Next.js App Router React Context и Ant Design",
+    "ABOUT_TITLE": "О нас"
+  },
+
+  "MENU": {
+    "HOME": "Главная",
+    "ABOUT": "О нас"
+  },
+
+  "USER": {
+    "AGE": "Возраст",
+    "GENDER": "Пол",
+    "INFO": "Информация о пользователе из контекста",
+    "NAME": "Имя"
+  }
+}

@@ -1,0 +1,13 @@
+@import '@/theme/settings';
+
+.header {
+  border-bottom: 1px solid color(grayLight);
+  padding: spacing(sm) 0;
+}
+
+.headerContent {
+  align-items: center;
+  display: flex;
+  gap: spacing(md);
+  justify-content: space-between;
+}

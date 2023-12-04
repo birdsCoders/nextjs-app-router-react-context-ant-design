@@ -1,0 +1,22 @@
+{
+  "TITLE": "Welcome to our site!",
+  "TITLE_ABOUT": "About Us",
+  "NOT_FOUND": "Custom Not Found page",
+
+  "METADATA": {
+    "TITLE": "Next.js App Router React Context and Ant Design",
+    "ABOUT_TITLE": "About us"
+  },
+
+  "MENU": {
+    "HOME": "Home",
+    "ABOUT": "About"
+  },
+
+  "USER": {
+    "AGE": "Age",
+    "GENDER": "Gender",
+    "INFO": "Context User Info",
+    "NAME": "Name"
+  }
+}
